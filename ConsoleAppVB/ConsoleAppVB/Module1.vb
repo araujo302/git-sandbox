@@ -26,6 +26,7 @@
         Console.WriteLine($"Resultado Final.")
         Console.WriteLine($"Resultado convertendo Decimal : {resultadoDecimal} .")
         Console.WriteLine($"Resultado convertendo String : {resultadoString} .")
+        Console.WriteLine($"FIM.   ")
 
     End Sub
 
