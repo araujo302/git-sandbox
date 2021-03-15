@@ -23,6 +23,7 @@
 
         FormatCurrency(123.456, 0)
 
+        Console.WriteLine($"Resultado Final.")
         Console.WriteLine($"Resultado convertendo Decimal : {resultadoDecimal} .")
         Console.WriteLine($"Resultado convertendo String : {resultadoString} .")
 
